@@ -25,7 +25,7 @@ console.log(texto.charAt(0).toUpperCase() + texto.slice(1)); // Salida: Hola, to
 let edad = 33;
 let boolean = true;
 let nulo = null; 
-let indefinido; 
+let undefined; 
 let objeto = {  
     nombre: "mariana",
     edad: 33
@@ -36,7 +36,7 @@ let array = [1, 2, 3, 4, 5, 6];
 console.log("edad:", edad);               
 console.log("boolean:", boolean);        
 console.log("Null:", nulo);              
-console.log("undefined:", indefinido); 
+console.log("undefined:", undefined); 
 console.log("object:", objeto);          
 console.log("array:", array);          
 
